@@ -80,3 +80,10 @@ ul li a:hover {
     text-decoration: underline;
     color: #ffcc00;
 }
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
