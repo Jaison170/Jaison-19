@@ -97,3 +97,12 @@ footer {
 img {
     border: 2px solid #003366;
 }
+body {
+    background-color: #f4f4f4;
+    font-size: 16px;
+    line-height: 1.6;
+}
+main h1 {
+    border-bottom: 2px solid #003366;
+    padding-bottom: 10px;
+}
