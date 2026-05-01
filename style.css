@@ -121,3 +121,7 @@ ul li {
     padding: 5px 0;
     border-bottom: 1px solid #cccccc;
 }
+h1 {
+    font-size: 28px;
+    letter-spacing: 1px;
+}
